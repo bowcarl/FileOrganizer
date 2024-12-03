@@ -33,7 +33,7 @@ cd FileOrganizer
 Furthermore, It's recommended to create a virtual environment to isolate the project dependencies. Continue and run the following commands:
 
 ```bash
-python3 -m venv organizergenv
+python3 -m venv organizerenv
 source organzierenv/bin/activate # or with windows use `organizerenv\Scripts\activate`
 ```
 
