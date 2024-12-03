@@ -25,8 +25,8 @@ Follow these simple steps to install and set up the project:
 Firstly, clone the repository from GitHub (or download the package manually):
 
 ```bash
-git clone https://github.com/bowcarl/ACIT4420-FileOrganizer.git
-cd ACIT4420-FileOrganizer
+git clone https://github.com/bowcarl/FileOrganizer.git
+cd FileOrganizer
 ```
 2. **Create a virtual environment**
 
