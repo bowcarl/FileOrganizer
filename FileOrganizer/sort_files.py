@@ -16,6 +16,7 @@ def file_sorter(file_name, base_dir):
             # Create the folder if it doesn't exist
             if not os.path.exists(extension_path):
                 os.makedirs(extension_path)
+                print(f"Created a folder with the name: {extention_path}")
 
             # Check for write permissions in the destination folder
             if not os.access(extension_path, os.W_OK):
